@@ -1,2 +1,2 @@
-def calculate_square(num):
-    return num * num
+def add_two_numbers(num1, num2):
+    return num1 + num2
