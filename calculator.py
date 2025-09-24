@@ -1,2 +1,2 @@
-def calculate_square_v2(num):
+def calculate_square(num):
     return num * num
